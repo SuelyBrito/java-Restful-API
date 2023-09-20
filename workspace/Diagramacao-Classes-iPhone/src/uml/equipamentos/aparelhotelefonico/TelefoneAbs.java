@@ -6,7 +6,7 @@ package uml.equipamentos.aparelhotelefonico;
 
 /**
  *
- * @author USUARIO
+ * @author Suely
  */
 public abstract class TelefoneAbs implements TelefoneIntfc {
 
