@@ -14,7 +14,7 @@ import jakarta.persistence.Table;
 
 /**
  *
- * @author USUARIO
+ * @author Suely
  */
 @Entity
 @Table(name = "tb_alunos")
